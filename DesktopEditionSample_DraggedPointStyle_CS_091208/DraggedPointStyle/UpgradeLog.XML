@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DraggedPointStyle">
+</Property><Property Name="Solution File" Value="C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\DraggedPointStyle.sln">
+</Property><Property Name="User Options File" Value="C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\DraggedPointStyle.suo">
+</Property><Property Name="Date" Value="Thursday, November 15, 2012">
+</Property><Property Name="Time" Value="15:24 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DraggedPointStyle.sln" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\DraggedPointStyle.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DraggedPointStyle.suo" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\DraggedPointStyle.suo">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="DraggedPointStyle.csproj" Description="Project file successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\DraggedPointStyle.csproj">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="DragInteractiveOverlay.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\DragInteractiveOverlay.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="Program.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="TestForm.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\TestForm.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="TestForm.designer.cs" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\TestForm.designer.cs">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="TestForm.resx" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\reviewed - Copy\DesktopEditionSample_DraggedPointStyle_CS_091208\DraggedPointStyle\Backup\TestForm.resx">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="DraggedPointStyle.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DraggedPointStyle" Source="DraggedPointStyle.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DraggedPointStyle.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DraggedPointStyle.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DraggedPointStyle" Source="DraggedPointStyle.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
